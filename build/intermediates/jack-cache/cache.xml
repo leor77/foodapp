@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/media/ciphered/0C76F2CF76F2B912/somethoughts/eatr/Eatr - Master/app/libs/cglib-nodep-3.2.4.jar"
+        revision="25.0.2"
+        sha1="42c972dee25a436b32c6027e848287ff47ed6750">
+        <dex dex="/media/ciphered/0C76F2CF76F2B912/somethoughts/eatr/Eatr - Master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/cglib-nodep-3.2.4-8a5372d16b92598590ec19f88dffd286feca99a5.jar" />
+    </item>
+    <item
+        jar="/media/ciphered/0C76F2CF76F2B912/somethoughts/eatr/Eatr - Master/app/libs/commons-io-2.5.jar"
+        revision="25.0.2"
+        sha1="2852e6e05fbb95076fc091f6d1780f1f8fe35e0f">
+        <dex dex="/media/ciphered/0C76F2CF76F2B912/somethoughts/eatr/Eatr - Master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/commons-io-2.5-717f6f9d3cabbefab07662e3d9de931931227a30.jar" />
+    </item>
+    <item
+        jar="/media/ciphered/0C76F2CF76F2B912/somethoughts/eatr/Eatr - Master/app/libs/commons-lang3-3.5.jar"
+        revision="25.0.2"
+        sha1="6c6c702c89bfff3cd9e80b04d668c5e190d588c6">
+        <dex dex="/media/ciphered/0C76F2CF76F2B912/somethoughts/eatr/Eatr - Master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/commons-lang3-3.5-3dd5ee09e7c7c7b87833f2a107c101b749cb006d.jar" />
+    </item>
+    <item
+        jar="/media/ciphered/0C76F2CF76F2B912/somethoughts/eatr/Eatr - Master/app/libs/gson-2.8.0.jar"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/media/ciphered/0C76F2CF76F2B912/somethoughts/eatr/Eatr - Master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/gson-2.8.0-8dbc19a757f8cf51c1abf6882f71171954f13e97.jar" />
+    </item>
+    <item
+        jar="/media/ciphered/0C76F2CF76F2B912/somethoughts/eatr/Eatr - Master/app/libs/commons-logging-1.2.jar"
+        revision="25.0.2"
+        sha1="4bfc12adfe4842bf07b657f0369c4cb522955686">
+        <dex dex="/media/ciphered/0C76F2CF76F2B912/somethoughts/eatr/Eatr - Master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/commons-logging-1.2-fcdb967b40486d00ddebb2ddb953da89a6e517ee.jar" />
+    </item>
+    <item
+        jar="/media/ciphered/0C76F2CF76F2B912/somethoughts/eatr/Eatr - Master/app/libs/commons-exec-1.3.jar"
+        revision="25.0.2"
+        sha1="8dfb9facd0830a27b1b5f29f84593f0aeee7773b">
+        <dex dex="/media/ciphered/0C76F2CF76F2B912/somethoughts/eatr/Eatr - Master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/commons-exec-1.3-93063f4f98495e4f3f5110c3574289cd0aec1600.jar" />
+    </item>
+    <item
+        jar="/media/ciphered/0C76F2CF76F2B912/somethoughts/eatr/Eatr - Master/app/libs/commons-codec-1.10.jar"
+        revision="25.0.2"
+        sha1="4b95f4897fa13f2cd904aee711aeafc0c5295cd8">
+        <dex dex="/media/ciphered/0C76F2CF76F2B912/somethoughts/eatr/Eatr - Master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/commons-codec-1.10-de99ded038eef4b40f02e098981bccd1a845bb73.jar" />
+    </item>
+    <item
+        jar="/media/ciphered/0C76F2CF76F2B912/somethoughts/eatr/Eatr - Master/app/libs/cssparser-0.9.22.jar"
+        revision="25.0.2"
+        sha1="3200e4091f08f78bed01350dbc1e200068f7f162">
+        <dex dex="/media/ciphered/0C76F2CF76F2B912/somethoughts/eatr/Eatr - Master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/cssparser-0.9.22-14e7728d4fa872e8692abc259696464286b77036.jar" />
+    </item>
+
+</items>

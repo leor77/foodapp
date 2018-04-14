@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/media/ciphered/0C76F2CF76F2B912/somethoughts/eatr/Eatr - Master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/media/ciphered/0C76F2CF76F2B912/somethoughts/eatr/Eatr - Master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7cb8aab66c20d57190035e25a8904a9deec5d766/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/ciphered/0C76F2CF76F2B912/somethoughts/eatr/Eatr - Master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec4feb786bb5e21428fecf5e7c509e24f77646dc">
+        <dex dex="/media/ciphered/0C76F2CF76F2B912/somethoughts/eatr/Eatr - Master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2c88961df327036c6796288f2986bb39d3174ce0/classes.dex" />
+    </item>
+
+</items>

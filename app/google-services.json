@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "570596435030",
+    "firebase_url": "https://restaurant-app-d814d.firebaseio.com",
+    "project_id": "restaurant-app-d814d",
+    "storage_bucket": "restaurant-app-d814d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570596435030:android:7c3ad105edb2e093",
+        "android_client_info": {
+          "package_name": "com.example.elybenari.restaurantapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570596435030-g0of3b3j4feqf4ai2bl6et0fjqc1gas1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.elybenari.restaurantapp",
+            "certificate_hash": "eaf47afbdd4ef3c2a32832567a29f2a2a000e928"
+          }
+        },
+        {
+          "client_id": "570596435030-larkurkfjsgr8ti3t0ne2klk2ip3pnqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHa5R0OlamlyNzmm4c6nI_utFjiNMy48o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570596435030-larkurkfjsgr8ti3t0ne2klk2ip3pnqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570596435030:android:3def04b97fe7d43e",
+        "android_client_info": {
+          "package_name": "com.example.leorbenari.restaurant_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570596435030-d5ot2ecei6vpgeknvbnf0siuh3npoltt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.leorbenari.restaurant_app",
+            "certificate_hash": "eaf47afbdd4ef3c2a32832567a29f2a2a000e928"
+          }
+        },
+        {
+          "client_id": "570596435030-larkurkfjsgr8ti3t0ne2klk2ip3pnqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHa5R0OlamlyNzmm4c6nI_utFjiNMy48o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570596435030-larkurkfjsgr8ti3t0ne2klk2ip3pnqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570596435030:android:52c4427b3170f9c8",
+        "android_client_info": {
+          "package_name": "com.beat.restaurantapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570596435030-658ov48chr2dfn847du47ac2iemoaqmg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beat.restaurantapp",
+            "certificate_hash": "eaf47afbdd4ef3c2a32832567a29f2a2a000e928"
+          }
+        },
+        {
+          "client_id": "570596435030-larkurkfjsgr8ti3t0ne2klk2ip3pnqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHa5R0OlamlyNzmm4c6nI_utFjiNMy48o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570596435030-larkurkfjsgr8ti3t0ne2klk2ip3pnqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570596435030:android:b9a497f2267a4be3",
+        "android_client_info": {
+          "package_name": "com.leorbenari.Eatr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570596435030-2iha642i9jvtdoqi180s75qlfjj3rrue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.leorbenari.Eatr",
+            "certificate_hash": "eaf47afbdd4ef3c2a32832567a29f2a2a000e928"
+          }
+        },
+        {
+          "client_id": "570596435030-larkurkfjsgr8ti3t0ne2klk2ip3pnqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHa5R0OlamlyNzmm4c6nI_utFjiNMy48o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570596435030-larkurkfjsgr8ti3t0ne2klk2ip3pnqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
